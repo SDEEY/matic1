@@ -6,7 +6,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const ethAmount = '0.8/1'
 const image = 'https://pbs.twimg.com/profile_images/1668916693408657408/jav8ob_q_400x400.jpg'
 const Title = 'CoolBoyz'
-const supply = 471
+const supply = 271
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
