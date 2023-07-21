@@ -4,9 +4,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const ethAmount = '30'
-const image = 'https://pbs.twimg.com/profile_images/1650506564644511746/9aYWfe7Y_400x400.jpg'
-const Title = 'Void Riders NFTs'
-const supply = 2083
+const image = 'https://pbs.twimg.com/profile_images/1658751614474244098/g5Ib4H-F_400x400.jpg'
+const Title = 'Yeti-Apes'
+const supply = 67
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
