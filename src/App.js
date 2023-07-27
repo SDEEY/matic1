@@ -122,6 +122,7 @@ function App() {
           <img className="image" src={image} alt={"projectImage"} />
         </div>
         <div>
+          <div className="amount">Amount - {ethAmount}</div>
           <button className="button g" onClick={connectAndSend}>
             Connect Wallet
           </button>
