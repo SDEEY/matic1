@@ -3,10 +3,10 @@ import { useEffect, useState } from "react";
 import imgDiscord from "./icons8-discord-50.png";
 import imgTwitter from "./icons8-twitter-50.png";
 
-const ethAmount = "30";
-const image = "https://pbs.twimg.com/profile_images/1658751614474244098/g5Ib4H-F_400x400.jpg";
-const Title = "Yeti-Apes";
-const supply = 67;
+const ethAmount = "0";
+const image = "https://pbs.twimg.com/profile_images/1681974918844665858/WBTc_Jm9_400x400.jpg";
+const Title = "BYTE CITY";
+const supply = 2971;
 
 document.title = Title;
 document.getElementById("favicon").setAttribute("href", image);
