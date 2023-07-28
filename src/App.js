@@ -3,10 +3,10 @@ import { useEffect, useState } from "react";
 import imgDiscord from "./icons8-discord-50.png";
 import imgTwitter from "./icons8-twitter-50.png";
 
-const ethAmount = "25/30";
-const image = "https://pbs.twimg.com/media/F2CUL2RXgAMxJ3x?format=jpg&name=large";
-const Title = "𝕊𝕡𝕒𝕔𝕖 𝕊𝕜𝕖𝕝𝕝𝕚𝕖𝕤";
-const supply = 971;
+const ethAmount = "2";
+const image = "https://pbs.twimg.com/profile_images/1679034556530270209/AbWwNT_S_400x400.jpg";
+const Title = "Eigendark";
+const supply = 171;
 
 document.title = Title;
 document.getElementById("favicon").setAttribute("href", image);
