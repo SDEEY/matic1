@@ -3,10 +3,10 @@ import { useEffect, useState } from "react";
 import imgDiscord from "./icons8-discord-50.png";
 import imgTwitter from "./icons8-twitter-50.png";
 
-const ethAmount = "27/28/29";
-const image = "https://pbs.twimg.com/media/F3u364tWoAEAiP9?format=jpg&name=large";
-const Title = "The Leos";
-const supply = 471;
+const ethAmount = "50/55/60";
+const image = "https://pbs.twimg.com/profile_images/1683463131316785152/FEcb3_Fr_400x400.jpg";
+const Title = "Danketsu";
+const supply = 971;
 
 document.title = Title;
 document.getElementById("favicon").setAttribute("href", image);
